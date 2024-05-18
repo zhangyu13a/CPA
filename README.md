@@ -18,7 +18,7 @@
 
 - model weight
 
-    - The models are trained on Visdrone2019 and finetuned on dataset of CARLA. The checkpoint of ViTDet can be downloaded here: 链接：https://pan.baidu.com/s/170HGfgbDU1eYCZjXhtvZDQ?pwd=b231 (b231) 
+    - The models are trained on Visdrone2019 and finetuned on dataset of CARLA. The checkpoint of ViTDet can be downloaded here: https://pan.baidu.com/s/170HGfgbDU1eYCZjXhtvZDQ?pwd=b231 (b231) 
 
 ## Optimizing the generator 
 
